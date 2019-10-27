@@ -5,7 +5,7 @@ import Loading from "./Loading";
 import * as Location from "expo-location";
 import axios from "axios";
 
-const API_KEY = "cbc0ad4178005fc7aedd4c33d2f66c7e";
+const API_KEY = "API_KEY";
 
 export default class App extends Component {
   state = {
